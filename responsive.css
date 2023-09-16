@@ -40,6 +40,9 @@ body {
 }
 
 @media (max-width:1024px) {
+  body {
+    padding: 20px;
+  }
   .col-3:nth-child(1),
   .col-3:nth-child(4) {
     width: 100%;
